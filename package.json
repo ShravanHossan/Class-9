@@ -5,7 +5,7 @@
     "axios": "^0.21.1",
     "express": "^4.16.4",
     "handlebars": "latest",
-    "hbs": "^4.0.3",
+    "hbs": "^4.2.0",
     "lodash": "latest",
     "promised-handlebars": "^2.0.1",
     "q": "^1.5.1",
